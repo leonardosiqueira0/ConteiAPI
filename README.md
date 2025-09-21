@@ -8,7 +8,7 @@ Este projeto é uma aplicação de contagem de estoque desenvolvida em .NET, ide
 <li>Linguagem: C#</li><br>
 <li>Banco de Dados: SQL Server</li><br>
 
-<h3>Contato</h3>
+<h2>Contato</h2>
 Desenvolvido por Leonardo Siqueira<br>
 GitHub: leonardosiqueira0
 
