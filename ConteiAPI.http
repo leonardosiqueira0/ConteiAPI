@@ -1,0 +1,6 @@
+@ConteiAPI_HostAddress = http://localhost:5262
+
+GET {{ConteiAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
